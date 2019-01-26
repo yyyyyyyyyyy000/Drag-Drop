@@ -14,6 +14,7 @@
 		B516FCBB21FB450D0001BCB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B516FCB921FB450D0001BCB7 /* LaunchScreen.storyboard */; };
 		B516FCC321FB45F70001BCB7 /* emojiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B516FCC221FB45F70001BCB7 /* emojiView.swift */; };
 		B516FCC521FB5DF70001BCB7 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = B516FCC421FB5DF70001BCB7 /* Utilities.swift */; };
+		B516FCC721FC32580001BCB7 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B516FCC621FC32580001BCB7 /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B516FCBC21FB450D0001BCB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B516FCC221FB45F70001BCB7 /* emojiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = emojiView.swift; sourceTree = "<group>"; };
 		B516FCC421FB5DF70001BCB7 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		B516FCC621FC32580001BCB7 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				B516FCB221FB450B0001BCB7 /* ViewController.swift */,
 				B516FCC421FB5DF70001BCB7 /* Utilities.swift */,
 				B516FCB421FB450B0001BCB7 /* Main.storyboard */,
+				B516FCC621FC32580001BCB7 /* MyTableViewController.swift */,
 				B516FCC221FB45F70001BCB7 /* emojiView.swift */,
 				B516FCB721FB450D0001BCB7 /* Assets.xcassets */,
 				B516FCB921FB450D0001BCB7 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				B516FCB321FB450B0001BCB7 /* ViewController.swift in Sources */,
 				B516FCB121FB450B0001BCB7 /* AppDelegate.swift in Sources */,
 				B516FCC521FB5DF70001BCB7 /* Utilities.swift in Sources */,
+				B516FCC721FC32580001BCB7 /* MyTableViewController.swift in Sources */,
 				B516FCC321FB45F70001BCB7 /* emojiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
